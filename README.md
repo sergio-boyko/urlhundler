@@ -8,4 +8,4 @@
 - распечатка результата в CSV файл;
 - работает на php 5 и выше.
 
-![Screenshot](https://github.com/sergio-boyko/urlhundler/sergio-boyko/Screenshot_1.png)
+![Screenshot](Screenshot_1.png)
