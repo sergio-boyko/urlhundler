@@ -1,7 +1,7 @@
 <?php
 /*******************************************************************************
 * Copyright (c) 2011-2014 by Matt Wright and contributors
-* https://github.com/mattwright/URLResolver.php
+* https://github.com/sergio-boyko/urlhundler/URLRedirect.php
 *
 * Licensed under The MIT License
 * Redistributions of files must retain the below copyright notice.
