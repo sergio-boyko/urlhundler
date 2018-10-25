@@ -49,18 +49,3 @@ foreach ($matches[0] as $url) {
 	array_push($json_result['data'], $arr);
 }
 echo json_encode($json_result);
-/*
-	[
-		"success": "true",
-		"data": {
-			"url": "http://some.site",
-			"code": {
-				"1": "301",
-				"2": "301",
-				"3": "200"
-			},
-			"count": "2"
-		},
-		"error": "null"
-	]
-*/
